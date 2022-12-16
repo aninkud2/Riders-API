@@ -1,0 +1,63 @@
+[
+    {"id":"1",
+    "Rider":"Adesina Adedokun",
+    "Location":"Abule Egba",
+    "Status":"In-house",
+    "Tribe":"Yoruba",
+    "Relationship":"Married",
+    "Sex":"Male",
+    "Contract":"Incentive",
+    "Type":"ODS"
+    },
+    {    "id":"2",
+        "Rider":"Waziri Muhammed",
+        "Location":"Yaba",
+        "Status":"In-house",
+        "Tribe":"Hausa",
+        "Relationship":"Married",
+        "Sex":"Male",
+        "Contract":"Dedicated",
+        "Type":"Eat and go"
+    },
+   {
+            "Rider":"Lawan Abba",
+            "Location":"Ilupeju",
+            "Status":"3pl",
+            "Tribe":"Hausa",
+            "Relationship":"Married",
+            "Sex":"Male",
+            "Contract":"Incentive",
+            "Type":"ODS"
+   },
+   {"id":"3",
+    "Rider":"Mustapha Muhammed",
+    "Location":"Ikeja",
+    "Status":"3pl",
+    "Tribe":"Hausa",
+    "Relationship":"Married",
+    "Sex":"Male",
+    "Contract":"Incentive",
+    "Type":"ODS"
+    },
+    {   "id":"4",
+        "Rider":"Babagana Muhammed",
+        "Location":"ikeja",
+        "Status":"In-house",
+        "Tribe":"Hausa",
+        "Relationship":"Married",
+        "Sex":"Male",
+        "Contract":"Incentive",
+        "Type":"ODS"
+    },
+    {   "id":"5",
+        "Rider":"Adam Umar",
+        "Location":"Ikeja",
+        "Status":"3pl",
+        "Tribe":"Hausa",
+        "Relationship":"Married",
+        "Sex":"Male",
+        "Contract":"Incentive",
+        "Type":"ODS"
+     }
+
+]
